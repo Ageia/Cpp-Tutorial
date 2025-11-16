@@ -27,4 +27,4 @@ https://docs.google.com/document/d/1QylSnnjgZGc7d95obOim-pK3MuKqGy4Jc6H8iRQzMMA/
 <img width="1236" height="346" alt="image" src="https://github.com/user-attachments/assets/7f59b789-59c8-497c-9a68-462afa538a23" />
 
 - F5 눌러서 실행
-
+- 조작법 WASD로 이동
