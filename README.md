@@ -10,3 +10,9 @@
 튜토리얼 링크
 
 https://docs.google.com/document/d/1QylSnnjgZGc7d95obOim-pK3MuKqGy4Jc6H8iRQzMMA/edit?usp=sharing
+
+---
+
+간단한 디스플레이 및 뱀 게임 예시
+
+![뱀게임](https://github.com/user-attachments/assets/dd2f8994-ce9b-4873-be3d-6e4b4ad92c80)
